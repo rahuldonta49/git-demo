@@ -1,5 +1,2 @@
 this is new example
-git config --global user.email "rahuldonta49@gmail.com"
-git config --global user.email "rahuldonta49@gmail.com"
-git config --global user.email "rahuldonta49@gmail.com"
-git config --global user.name "RAHUL DONTA"
+
